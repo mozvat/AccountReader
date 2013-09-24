@@ -1,0 +1,22 @@
+class Account{
+	
+	String _accountNumber = "";
+	String getAccountNumber(){ return _accountNumber; }
+	void setAccountNumber(String accountNumber){ _accountNumber = accountNumber;}
+
+	String _accountType = "";
+	String getAccountType(){ return _accountType; }
+	void setAccountType(String accountType){ _accountType = accountType.toLowerCase(); }	
+
+	String _customerName = "";
+	String getCustomerName(){ return _customerName; }
+	void setCustomerName(String customerName){ _customerName = customerName.toLowerCase(); }		
+
+	String _customerType = "";
+	String getCustomerType(){ return _customerType; }
+	void setCustomerType(String customerType){ _customerType = customerType.toLowerCase(); }	
+
+	double _accountBalance = 0;
+	double getAccountBalance(){ return _accountBalance; }
+	void setAccountBalance(String accountBalance){ _accountBalance = Double.parseDouble(accountBalance); }
+}

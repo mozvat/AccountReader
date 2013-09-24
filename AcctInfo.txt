@@ -1,0 +1,43 @@
+40239
+Checking
+Charles Xavier
+premier
+31000.35
+
+20925
+Savings
+Scott Summers
+Value
+345.89
+
+21354
+Savings
+Robert Drake
+advantage
+1235.23
+
+45687
+Checking
+Warren Worthington
+Advantage
+675.98
+
+43234
+Checking
+Henry McCoy
+Premier
+24576.76
+
+21356
+Savings
+Jean Grey
+Premier
+12678.45
+
+40123
+Checking
+Lorna Dane
+value
+1105.78
+
+
