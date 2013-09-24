@@ -2,6 +2,11 @@ import java.io.*;
 import java.util.*;
 import java.text.*;
 
+/**
+ * The AccountReader class reads a file of accounts and calculates montly fees. 
+ * @author  Matt Ozvat
+ * @version 1.0, September 2013
+ */
 class AccountReader {
 	
 	/**
